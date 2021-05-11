@@ -1,0 +1,4 @@
+*.out
+*.csv
+Results/
+Benchmarks/*.png
